@@ -8,7 +8,7 @@
         Title="Esoft Real Estate" Height="450" Width="438.507">
     <Grid Margin="0,0,3,0">
         <Label Content="Real Estate" HorizontalAlignment="Left" Margin="183,106,0,0" VerticalAlignment="Top" Width="238" FontWeight="Bold" FontSize="44"/>
-        <Button Content="manage agents" HorizontalAlignment="Left" Margin="145,202,0,0" VerticalAlignment="Top" Width="150" Height="25"/>
+        <Button Content="manage agents" HorizontalAlignment="Left" Margin="145,202,0,0" VerticalAlignment="Top" Width="150" Height="25" Click="Button_Click"/>
         <Button Content="manage clients" HorizontalAlignment="Left" Margin="145,249,0,0" VerticalAlignment="Top" Width="150" Height="25"/>
         <Button Content="manage real estate" HorizontalAlignment="Left" Margin="145,295,0,0" VerticalAlignment="Top" Width="150" Height="25"/>
         <Button Content="manage supplies" HorizontalAlignment="Left" Margin="145,338,0,0" VerticalAlignment="Top" Width="150" Height="25"/>
